@@ -1,9 +1,9 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:line_icons/line_icons.dart';
-import 'package:netflix_clone/pages/movie_detail_page.dart';
-import 'package:netflix_clone/theme/color.dart';
-import 'package:netflix_clone/util/home_page_json.dart';
+import 'package:vortex/pages/movie_detail_page.dart';
+import 'package:vortex/theme/color.dart';
+import 'package:vortex/util/home_page_json.dart';
 
 class HomePage extends StatefulWidget {
   @override
